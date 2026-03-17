@@ -1,3 +1,19 @@
+**March 16**
+Lab 3 Module 2:
+_Objective_:
+
+- The weather agent is composed by the following components:
+  - Amazon Bedrock: Hosting the agent AI model
+  - AWS Lambda: Execute the business rules and serve as an integration layer
+  - Weather Service: An external REST API providing weather information
+
+Lab 2 Module 5
+_Objective_:
+
+- create a Amazon Bedrock AgentCore Gateway to convert an existing Lambda Function into a fully managed MCP Server
+
+- When making Gateway we set the target as the Lambda Function
+
 **March 15**
 Lab 2
 _Learned about_:
